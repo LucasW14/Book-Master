@@ -1,7 +1,7 @@
 ## Title
 > Your project title
 ## Team Members
-> List your names
+> Lucas Walton, Laquan Crawford, Grume Fikre 
 ## Description 
 > A brief description of what your app will be like and why it's interesting. Include brief summaries for the services provided by the app.
 > Possible questions to answer here:  What is the motivation for the app? What are the goals of the app/ What problem will the app solve?
