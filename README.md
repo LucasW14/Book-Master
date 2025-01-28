@@ -3,9 +3,8 @@
 ## Team Members
 > Lucas Walton, Laquan Crawford, Grume Fikre 
 ## Description 
-> A brief description of what your app will be like and why it's interesting. Include brief summaries for the services provided by the app.
-> Possible questions to answer here:  What is the motivation for the app? What are the goals of the app/ What problem will the app solve?
->
+> __ is a website used to match users to the type of book they need. Based off charactersitics of the user whether they are a student, parent, or someone who loves to read they are matched to books that fit that specific category. This app aims to reduce the amount of aimless wandering for people who don't know what to read by analyzing who they are and finding the right book for them. 
+> 
 ## App Functions
 1. Customer (the user with the customer role):
     1. Create/modify customer profile - how will your app do this?.
