@@ -19,7 +19,7 @@
     4. Reply to reviews - reply to book reviews and quality of book
        
 3. SysAdmin (the user with the admin role if applicable): Grume Fikre
-    1. Manage user access - As a admin I will be able to activate and deactivate user accounts. I can also reset customers passwords aswell.
-    2. Moderate services - As a admin I can accept or reject newly added books sumbited by authors or providers. I must enusre that books have the correct metadata. 
+    1. Manage user access - As a admin I will be able to activate and deactivate user accounts. I can also reset customers passwords as well.
+    2. Moderate services - As a admin I can accept or reject newly added books sumbitted by authors or providers. I must enusre that books have the correct metadata. 
     3. Moderate reviews - I can moderate all reviews and also remove offensive or spam reviews. I can also send warnings to users who are breaking the review guidelines.
-    4. View usage statistics - I have acess to see how much books we have sold and also can see usage trends like active users or daily interactions.
+    4. View usage statistics - I have access to see how much books we have sold and also can see usage trends like active users or daily interactions.
