@@ -7,10 +7,10 @@
 > 
 ## App Functions
 1. Customer (the user with the customer role): Laquan Crawford
-    1. Create/modify customer profile - how will your app do this? - 
-    2. View available services - .
-    3. Subscribe to available services - .
-    4. Write reviews for subscribed services - .
+    1. Create/modify customer profile - how will your app do this? - The app will allow the user(customer) to create an account to view, subscribe, and, write reviews on services.
+    2. View available services - View pricing and description that the use intends to purchase.
+    3. Subscribe to available services - After the user has figured out what service he likes he will this function to subscribe to the service if it is available.
+    4. Write reviews for subscribed services - After the user has expierenced the services he will be free to write a review on his expierence positive or negative.
        
 2. Provider (the user with the provider role): Lucas Walton 
     1. Create/modify/remove provider profile - Register as a seller to sell books of different genres 
