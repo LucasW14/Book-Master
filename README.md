@@ -7,7 +7,7 @@
 > 
 ## App Functions
 1. Customer (the user with the customer role): Laquan Crawford
-    1. Create/modify customer profile - how will your app do this?.
+    1. Create/modify customer profile - how will your app do this? - 
     2. View available services - .
     3. Subscribe to available services - .
     4. Write reviews for subscribed services - .
