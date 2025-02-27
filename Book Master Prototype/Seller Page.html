@@ -4,186 +4,70 @@
     <meta charset="UTF-8">
     <title>Seller</title>
 
-
-  <style>
-    .table-container {
-        white-space: nowrap; /* Ensures tables stay on the same line */
-    }
-
-    .table {
-        display: inline-block;
-        margin-right: 20px; /* Adds space between tables */
-        border-collapse: collapse;
-        text-align: left;
-        border: 2px solid black;
-        right: 0;
-    }
-
- .table-container {
-    position: absolute;
-    top: 50%; /* Centers vertically */
-    right: 20px; /* Moves table to the right */
-    transform: translateY(-50%); /* Adjusts for perfect centering */
-}
-
-.right-table {
-    border-collapse: collapse;
-    color: black;
-    border: 2px solid black;
-    text-align: center;
-}
-
-.right-table th, .right-table td {
-    border: 1px solid black;
-    padding: 10px;
-}
-
-
-
-    th, td {
-        border: 1px solid black;
-        padding: 8px;
-    }
-
-    /* Add Gradient Background */
-    body {
-        margin: 0;
-        padding: 0;
-        height: 100vh;
-        background: linear-gradient(to bottom right, red, blue); /* Gradient from top-left to bottom-right */
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        font-family: Arial, sans-serif;
-        color: white;
-    }
-
-    /* Style for the menu */
-    select {
-        padding: 10px;
-        font-size: 16px;
-        margin-bottom: 20px;
-        border: none;
-        background: #258a1d;
-        color: white;
-        border-radius: 5px;
-    }
-
-    /* Style for text */
-    h1 {
-        color: #ffffff;
-        text-align: center;
-    }
-
-    h2 {
-        color: white;  /* White color for contrast */
-        text-align: center;
-        font-size: 1.5em;  /* Make the subheading smaller than the title */
-        margin-top: 10px; /* Space between title and subheading */
-    }
-
-    /* Optional: Styling for the image */
-    img {
-        max-width: 100%;
-        height: auto;
-        border-radius: 10px;
-    }
-
-    /* Additional padding for paragraphs */
-    p {
-        text-align: center;
-        padding: 0 20px;
-        font-size: 1.2em;
-    }
-
-.header {
-position: absolute;
-top: 0;
-left: 0;
-display: flex;
-align-items: center; /* Align title and links vertically */
-gap: 20px; /* Space between title and links */
-padding: 10px;
-}
-
-
-.header2 {
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: flex;
-    align-items: center; /* Align title and links vertically */
-    gap: 20px; /* Space between title and links */
-    padding: 10px;
-}
-
-
-.nav-links a {
-text-decoration: none; /* Remove underline */
-color: white; /* Adjust color as needed */
-font-size: 18px;
-margin-left: 15px; /* Space between links */
-padding: 5px 10px;
-border-radius: 5px;
-background-color: rgba(0, 0, 0, 0.2); /* Light background */
-}
-
-.nav-links a:hover {
-background-color: rgba(0, 0, 0, 0.5); /* Darker background on hover */
-}
-
-img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-            right: 0;
-        }
-
-}
-
-
-
-  </style>
-
-
-
-
+    <link rel="stylesheet" href="style.css">
 
 
 </head>
 <body>
 
 <div class="header">
-  <h1 class="title" style="color: yellow; text-align: center">Book Master</h1>
-  <nav class="nav-links">
-    <a href="page1.html" style="color: yellow; text-align: center">Home</a>
-    <a href="page2.html" style="color: yellow; text-align: center">Sign in/ Sign up</a>
-    <a href="page2.html" style="color: yellow; text-align: center">About</a>
-    <a href="page3.html" style="color: yellow; text-align: center">Contact</a>
+    <h1 class="title" style="color: yellow; text-align: center">Book Master</h1>
+    <nav class="nav-links">
+        <a href="Home.html" style="color: yellow; text-align: center">Home</a>
+      <a href="My Book Store.html" style="color: yellow; text-align: center">My Book Store</a>
+      <a href="page2.html" style="color: yellow; text-align: center">About</a>
+      <a href="page3.html" style="color: yellow; text-align: center">Contact</a>
 
-  </nav>
+    </nav>
 </div>
 
 <h2 class="header2" style="color: yellow; text-align: center">Seller Profile</h2>
 
+
 <div class="table-container">
-  <table class="right-table">
-    <tr>
-      <th><img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Pat-Morita_%28Karate_Kid%29.jpg"
-               alt="Cobra image" width="104" height="142"></th>
-    </tr>
-    <tr>
-      <td>Name: Miyagi</td>
-    </tr>
-    <tr>
-      <td>Classification: King Cobra</td>
-    </tr>
-    <tr>
-      <td>Location: New Delhi, India</td>
-    </tr>
-  </table>
+    <table>
+        <tr>
+            <td><b><i> Best Selling Book<i/></b></td>
+
+        </tr>
+        <tr>
+            <th><img
+                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660145160l/61718053.jpg"
+                    alt="Cobra image" width="104" height="142"></th>
+        </tr>
+        <tr>
+            <td>Book Name: Happy Place</td>
+        </tr>
+        <tr>
+            <td>Genre: Romance</td>
+        </tr>
+        <tr>
+            <td>Price: $25.00</td>
+        </tr>
+    </table>
+
+
+    <table>
+        <tr>
+            <th><img src="https://upload.wikimedia.org/wikipedia/en/2/2e/Pat-Morita_%28Karate_Kid%29.jpg"
+                     alt="Cobra image" width="104" height="142"></th>
+        </tr>
+        <tr>
+            <td>Name: Jotoro Miyagi</td>
+        </tr>
+        <tr>
+            <td>Classification: Seller</td>
+        </tr>
+        <tr>
+            <td>Genres: Romance, Anime<br>Fiction, Non-fiction</td>
+        </tr>
+    </table>
+
 </div>
+
+<h1 style="color: yellow; text-align: center">“It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it
+    was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness,
+    it was the spring of hope, it was the winter of despair.” — Charles Dickens, A Tale of Two Cities</h1>
 
 
 </body>
